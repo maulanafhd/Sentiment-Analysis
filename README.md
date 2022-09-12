@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis Based Naive Bayes
+Naive Bayes Based Sentiment Analysis 
